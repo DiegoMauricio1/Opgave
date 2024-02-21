@@ -8,14 +8,12 @@
 <body>
 
 <div class="container">
-
-<h1>Mit navn er Diego</h1>
+    <h1 class="overskrift">Mit navn er Diego</h1>
+</div>
 
 <?php
 
 ?>
-
-</div>
 
 </body>
 </html>
