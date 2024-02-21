@@ -10,8 +10,17 @@
     background: linear-gradient(45deg,#d2001a,#7462ff);
 }
 
+.content{
+    padding-top: 20%;
+    text-align: center;
+}
 
 .overskrift{
-    color: blue;
-    font-size: 50px;
+    color: black;
+    font-size: 100px;
+}
+
+img{
+    height: auto;
+    width: 50%;
 }
